@@ -215,3 +215,16 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="华数高清" tvg-name="华数高清" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/华数.png" group-title="数字",华数超清
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
+#EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://raw.githubusercontent.com/gaoccc/service/logo/自贡.png" group-title="卫视",自贡综合
+http://110.189.153.160:1001/zhpd.flv?zsicd
+#EXTINF:-1 tvg-id="雅虎财经" tvg-name="雅虎财经"  group-title="国际",雅虎财经
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="广安公共" tvg-name="广安公共"  group-title="卫视",广安公共
+http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
+#EXTINF:-1 tvg-id="眉山公共" tvg-name="眉山公共"  group-title="卫视",眉山公共
+http://live2.scmstv.cn/ggpd/sd/live.m3u8?zsicd
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World"  group-title="国际",KBS World
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="日本全天新聞" tvg-name="日本全天新聞"  group-title="国际",日本全天新聞
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
