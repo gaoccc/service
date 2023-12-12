@@ -218,7 +218,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 
 #EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://raw.githubusercontent.com/gaoccc/service/logo/自贡.png" group-title="卫视",自贡综合
 http://110.189.153.160:1001/zhpd.flv?zsicd
-#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="i.imgur.com/43oHsHL.png" group-title="国际",Yahoo! Finance
+#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="国际",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="广安公共" tvg-name="广安公共"  group-title="卫视",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
