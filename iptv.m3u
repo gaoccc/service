@@ -230,7 +230,7 @@ https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="http://live.cooltv.top/logo/wxxw.png" group-title="国际",無線新聞台 
 http://live.cooltv.top/tv/tvb.php?id=0&hq 
-#EXTINF:-1 tvg-id="無線財經體育資訊台" tvg-name="無線財經體育資訊台" tvg-logo="http://live.cooltv.top/logo/wxcj.png" group-title="国际",無線財經體育資訊台 
+#EXTINF:-1 tvg-id="無線財經體育資訊台" tvg-name="無線財經體育資訊台" tvg-logo="http://live.cooltv.top/logo/wxcj.png" group-title="国际",無線財經台 
 http://live.cooltv.top/tv/tvb.php?id=2&hq
 #EXTINF:-1 tvg-id="NASA TV Media" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Media 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
