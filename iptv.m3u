@@ -224,7 +224,7 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 tvg-id="眉山公共" tvg-name="眉山公共"  group-title="卫视",眉山公共
 http://live2.scmstv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World"  tvg-logo="upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国际",KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World"  tvg-logo="https://upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国际",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 #EXTINF:-1 tvg-id="日本全天新聞" tvg-name="日本全天新聞" tvg-logo="upload.112114.xyz/logo/japanews_24.png" group-title="国际",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -232,9 +232,9 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 http://live.cooltv.top/tv/tvb.php?id=0&hq 
 #EXTINF:-1 tvg-id="無線財經體育資訊台" tvg-name="無線財經體育資訊台" tvg-logo="http://live.cooltv.top/logo/wxcj.png" group-title="国际",無線財經體育資訊台 
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="NASA TV Media" tvg-name="NASA TV Media" tvg-logo="i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Media 
+#EXTINF:-1 tvg-id="NASA TV Media" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Media 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASA TV Public" tvg-name="NASA TV Public" tvg-logo="i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Public 
+#EXTINF:-1 tvg-id="NASA TV Public" tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Public 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="upload.112114.xyz/logo/TVBSNEWS.png" group-title="国际",TVBS新聞
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="国际",TVBS新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
