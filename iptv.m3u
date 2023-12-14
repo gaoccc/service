@@ -218,25 +218,40 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 
 #EXTINF:-1 tvg-id="自贡综合" tvg-name="自贡综合" tvg-logo="https://raw.githubusercontent.com/gaoccc/service/logo/自贡.png" group-title="卫视",自贡综合
 http://110.189.153.160:1001/zhpd.flv?zsicd
-#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="国际",Yahoo! Finance
+#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-name="Yahoo! Finance" tvg-logo="i.imgur.com/43oHsHL.png" group-title="国际",Yahoo! Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="广安公共" tvg-name="广安公共"  group-title="卫视",广安公共
 http://live1.gatv.com.cn:85/live/GGPD_ggpdzm.m3u8?zsicd
 #EXTINF:-1 tvg-id="眉山公共" tvg-name="眉山公共"  group-title="卫视",眉山公共
 http://live2.scmstv.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World"  tvg-logo="https://upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国际",KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World"  tvg-logo="upload.112114.xyz/logo/CH_T_KBSWORLD.png" group-title="国际",KBS World
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-#EXTINF:-1 tvg-id="日本全天新聞" tvg-name="日本全天新聞" tvg-logo="https://upload.112114.xyz/logo/japanews_24.png" group-title="国际",日本全天新聞
+#EXTINF:-1 tvg-id="日本全天新聞" tvg-name="日本全天新聞" tvg-logo="epg.112114.xyz/logo/japanews_24.png" group-title="国际",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="http://live.cooltv.top/logo/wxxw.png" group-title="国际",無線新聞台 
 http://live.cooltv.top/tv/tvb.php?id=0&hq 
-#EXTINF:-1 tvg-id="無線財經體育資訊台" tvg-name="無線財經體育資訊台" tvg-logo="http://live.cooltv.top/logo/wxcj.png" group-title="国际",無線財經台 
+#EXTINF:-1 tvg-id="無線財經體育資訊台" tvg-name="無線財經體育資訊台" tvg-logo="http://live.cooltv.top/logo/wxcj.png" group-title="国际",無線財經體育資訊台 
 http://live.cooltv.top/tv/tvb.php?id=2&hq
-#EXTINF:-1 tvg-id="NASA TV Media" tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Media 
+#EXTINF:-1 tvg-id="NASA TV Media" tvg-name="NASA TV Media" tvg-logo="epg.112114.xyz/logo/NASA.png" group-title="国际",NASA TV Media 
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="NASA TV Public" tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/ECPgLf6.png" group-title="国际",NASA TV Public 
+#EXTINF:-1 tvg-id="NASA TV Public" tvg-name="NASA TV Public" tvg-logo="epg.112114.xyz/logo/NASA.png" group-title="国际",NASA TV Public 
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://upload.112114.xyz/logo/TVBSNEWS.png" group-title="国际",TVBS新聞
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="upload.112114.xyz/logo/TVBSNEWS.png" group-title="国际",TVBS新聞
 http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://upload.112114.xyz/logo/Sky%20News.png",Sky News
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+
+#EXTINF:-1 tvg-name="江苏新闻广播" group-title="广播",江苏新闻广播
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw769954038_1328455700/ott.mobaibox.com/PLTV/3/224/3221227984/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广流行网.png" group-title="广播",中廣流行網
+http://stream.rcs.revma.com/aw9uqyxy2tzuv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广新闻网.png" group-title="广播",‎中廣新聞網
+http://stream.rcs.revma.com/78fm9wyy2tzuv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/中广音乐网.png" group-title="广播",‎中廣音樂網
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/bbc1.png" group-title="广播",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/bbc2.png" group-title="广播",BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/radio/bbc3.png" group-title="广播",BBC Radio 3
+https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+#EXTINF:-1 tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/Lz9bbsba4c.png" group-title="广播",BBC World Service
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
